@@ -1,0 +1,10 @@
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+body.login {
+    background-color: #21252d;
+    font-family: "Raleway", sans-serif;
+    display: block;
+  }

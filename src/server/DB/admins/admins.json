@@ -1,0 +1,9 @@
+[
+  {
+    "_id": {
+      "$oid": "616710b2a9da7b70b7b9dc9f"
+    },
+    "usuario": "admin@mail.com",
+    "clave": "$2b$10$kfb2VBicG8HssV3WkAMt9u1qxkQtkANstRwtad7fUhPFjc0SeSIBu"
+  }
+]
